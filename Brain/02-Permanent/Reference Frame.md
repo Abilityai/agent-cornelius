@@ -1,0 +1,1 @@
+One of the concept which brain uses to think and make decisions.

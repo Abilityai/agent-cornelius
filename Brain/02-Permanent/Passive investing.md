@@ -1,0 +1,1 @@
+Any form of [[Investing]] [[investment]] that does not require active participation, e.g. [[ETF]] [[Index Fund]]

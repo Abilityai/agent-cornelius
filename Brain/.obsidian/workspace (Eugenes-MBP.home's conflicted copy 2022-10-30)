@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "c33e8dc8deb1ac55",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc178b5fe42dd34e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Books & Learnings/Superforecasting - P. Tetlock.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16b5a3d05b2bf84",
+    "type": "split",
+    "children": [
+      {
+        "id": "9912d17583d5b330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05a8e0f594e9e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "09bd7afc1e838a21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b283a2606a54109",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6dc0197bc455ace8",
+    "type": "split",
+    "children": [
+      {
+        "id": "73608057a29f59d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112a2946ad34abfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books & Learnings/Superforecasting - P. Tetlock.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bfa3600bd950d219",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25f02fd939fe01e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books & Learnings/Superforecasting - P. Tetlock.md"
+              }
+            }
+          },
+          {
+            "id": "55cb214af85e4309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books & Learnings/Superforecasting - P. Tetlock.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc178b5fe42dd34e",
+  "lastOpenFiles": [
+    "Books & Learnings/a16z Crypto School.md",
+    "Books & Learnings/Superforecasting - P. Tetlock.md",
+    "Books & Learnings/Noise A Flaw in Human Judgement - Kahneman.md",
+    "Books & Learnings/Thinking in Bets - Annie Duke.md",
+    "Books & Learnings/COVID-19 The Great Reset - Klaus Schwab.md",
+    "Books & Learnings/48 Laws of Power.md",
+    "Books & Learnings/Think Again - Adam Grant.md",
+    "Books & Learnings/Dopamine Nation - Anna Lembke.md",
+    "Books & Learnings/The Molecule of More - Daniel Lieberman.md",
+    "Books & Learnings/Stumbling on Happiness - Daniel Gilbert.md"
+  ]
+}

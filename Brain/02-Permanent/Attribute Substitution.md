@@ -1,0 +1,1 @@
+Also called Bait & Switch - Attribute substitution is **a psychological process thought to underlie a number of cognitive biases and perceptual illusions**. It occurs when an individual has to make a judgment (of a target attribute) that is computationally complex, and instead substitutes a more easily calculated heuristic attribute.

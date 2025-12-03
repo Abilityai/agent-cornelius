@@ -1,0 +1,3 @@
+A protocol developed by [[Daniel Kahneman]] which recommends breaking up each big [[decision]] into a set of smaller assessments about the issue’s individual parts. Their example is a company that’s considering making an acquisition, where MAP would require separate studies on cultural, financial, and legal implications. The separation is key because it demands “explicit assessments of each aspect and to use those assessments as the basis for a decision.” Those exploring cultural fit are charged with setting impressions about money and liability aside, and so on. From there, each attribute is assigned a percentile score; those scores are then assessed during a final decision-making process.
+
+Basically splitting a big decision in parts. 

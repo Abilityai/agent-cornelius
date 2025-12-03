@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "smart_connections": {
+      "description": "Smart Connections MCP for Obsidian vault queries",
+      "command": "node",
+      "args": [
+        "/Users/eugene/.nvm/versions/node/v22.11.0/lib/node_modules/@smart-connections/mcp/dist/index.js",
+        "/Users/eugene/Library/Mobile Documents/iCloud~md~obsidian/Documents/Eugene's Second Brain"
+      ],
+      "env": {}
+    },
+    "mermaid_diagram": {
+      "description": "Generate diagrams from Mermaid markdown",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-mermaid"
+      ],
+      "env": {}
+    }
+  }
+}

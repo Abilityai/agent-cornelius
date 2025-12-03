@@ -1,0 +1,38 @@
+graph TB
+    subgraph PERCEPTION["🔍 PERCEPTION LAYER"]
+        P1[User Conversations]
+        P2[File System Access]
+        P3[Web Access]
+        P4[Knowledge Graph<br/>1,883 notes]
+    end
+
+    subgraph COGNITION["🧠 COGNITION LAYER"]
+        C1[Language Understanding]
+        C2[Task Planning]
+        C3[Problem Solving]
+        C4[Pattern Recognition]
+    end
+
+    subgraph ACTION["⚡ ACTION LAYER"]
+        A1[Code Execution]
+        A2[File Operations]
+        A3[Knowledge Management]
+        A4[External Integrations]
+    end
+
+    subgraph MEMORY["💾 MEMORY LAYER"]
+        M1[Working Memory<br/>Conversation Context]
+        M2[Long-term Memory<br/>550 Permanent Notes<br/>102 AI Insights]
+        M3[System Instructions<br/>CLAUDE.md]
+        M4[Session History<br/>19 Changelogs]
+    end
+
+    PERCEPTION --> COGNITION
+    COGNITION --> ACTION
+    ACTION --> MEMORY
+    MEMORY --> COGNITION
+
+    style PERCEPTION fill:#FFE5E5,stroke:#FF0000,stroke-width:3px,color:#2D2D2D
+    style COGNITION fill:#F5F5F5,stroke:#CCCCCC,stroke-width:2px,color:#2D2D2D
+    style ACTION fill:#FFFFFF,stroke:#CCCCCC,stroke-width:2px,color:#2D2D2D
+    style MEMORY fill:#FFE5E5,stroke:#FF0000,stroke-width:3px,color:#2D2D2D

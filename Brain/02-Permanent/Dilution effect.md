@@ -1,0 +1,1 @@
+**occurs when a person has to weigh several pieces of information, some of which are relevant to the judgment to be made while others are not**. In such a case, the presence of irrelevant information dilutes or weakens the importance given to relevant information.

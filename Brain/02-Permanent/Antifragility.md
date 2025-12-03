@@ -1,0 +1,7 @@
+The central concept of [[Nassim Taleb]]’s [_Antifragile_](https://taylorpearson.me/antifragile-book-notes/) is the notion that there are two opposing ways in which something can respond to [[Volatility]]: fragile things are harmed by volatility, while antifragile things benefit from it.
+
+Fragility implies more to lose than to gain from [[Volatility]] and more [[downside]] than [[upside]]. Antifragility implies more to gain than to lose, more upside than downside. You are antifragile to a source of volatility if potential gains exceed potential losses (and vice versa). 
+
+[[Ergodicity]] Fragile and antifragile systems can effectively be used as synonyms for [[Non-Ergodic System]] and [[Ergodic system]]. A fragile actor is non-ergodic, a truly antifragile actor is ergodic.
+
+If you want to determine whether something is fragile or antifragile, you expose it to [[volatility]] and see how it responds. Say you measure that when traffic increases by a thousand cars in a city, travel time grows by ten minutes. But if traffic increases by another thousand more cars, travel time now extends by an extra thirty minutes. Such acceleration of traffic time shows that traffic is fragile, the more volatile things get, the worse it gets.

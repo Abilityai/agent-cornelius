@@ -1,0 +1,1 @@
+What you see is all there is. [[Daniel Kahneman]] this this is one of the main cognitive illusions. 

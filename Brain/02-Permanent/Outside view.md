@@ -1,0 +1,1 @@
+When you look at the problem at hand from the outside perspective and estimate the [[Base Rate]]s. 

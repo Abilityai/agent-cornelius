@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c33e8dc8deb1ac55",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3832eaf40a06c98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc178b5fe42dd34e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books & Learnings/Dopamine Nation - Anna Lembke.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "478bea10c1c094b5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1a3e8638a383316",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16b5a3d05b2bf84",
+    "type": "split",
+    "children": [
+      {
+        "id": "9912d17583d5b330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05a8e0f594e9e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09bd7afc1e838a21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b283a2606a54109",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "6dc0197bc455ace8",
+    "type": "split",
+    "children": [
+      {
+        "id": "73608057a29f59d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112a2946ad34abfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books & Learnings/Dopamine Nation - Anna Lembke.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bfa3600bd950d219",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25f02fd939fe01e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books & Learnings/Dopamine Nation - Anna Lembke.md"
+              }
+            }
+          },
+          {
+            "id": "55cb214af85e4309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books & Learnings/Dopamine Nation - Anna Lembke.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cc178b5fe42dd34e",
+  "lastOpenFiles": [
+    "Permanent Notes/Align and assume good intent.md",
+    "Books & Learnings/Debt The First 5000 Years - David Graeber.md",
+    "Permanent Notes/FIrst came Credit, then Money, then Barter.md",
+    "Permanent Notes/Religions are based on debt and credit.md",
+    "Permanent Notes/Social relationships is a form of credit exchange.md",
+    "Books & Learnings/COVID-19 The Great Reset - Klaus Schwab.md",
+    "Books & Learnings/1 Books To Read.md",
+    "Books & Learnings/Atomic Habits - James Clear.md",
+    "Books & Learnings/Algorithms to Live By - Brian Christian.md",
+    "Permanent Notes/The deepest meaning comes from suffering.md"
+  ]
+}

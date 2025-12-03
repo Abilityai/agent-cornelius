@@ -1,0 +1,1 @@
+Concept by [[Nassim Taleb]]. An event that is highly improbable and has a huge impact on the world. 

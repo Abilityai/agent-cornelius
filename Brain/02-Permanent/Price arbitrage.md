@@ -1,0 +1,1 @@
+Taking advantage that the same [[asset]] has different prices on different markets, or event at the same market. [[Stock Market]] [[price]]

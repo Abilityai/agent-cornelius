@@ -1,0 +1,1 @@
+A method of measuring the quality of [[Forecast]] taking into account [[Calibration]] and [[Resolution]] as two numerical measures. 

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "c33e8dc8deb1ac55",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd4d4e8945bc6945",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ee4ceef9fb685e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Kelly Criterion formula allows to come up with the optimal Bet size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73af8f9b70c7857e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kelly Criterion - How to not lose everything when investing in risly assets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f64df0bdee561e2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "88c9946c412507be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permanent Notes/Ergodicity - in system with fatal events Time and Ensemble probability work differently.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16b5a3d05b2bf84",
+    "type": "split",
+    "children": [
+      {
+        "id": "9912d17583d5b330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05a8e0f594e9e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09bd7afc1e838a21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b283a2606a54109",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6dc0197bc455ace8",
+    "type": "split",
+    "children": [
+      {
+        "id": "73608057a29f59d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112a2946ad34abfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bfa3600bd950d219",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25f02fd939fe01e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "55cb214af85e4309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f64df0bdee561e2",
+  "lastOpenFiles": [
+    "The Meaningless Existence of the Telepathic Penguins.md",
+    "Permanent Notes/Ergodicity - in system with fatal events Time and Ensemble probability work differently.md",
+    "Kelly Criterion - How to not lose everything when investing in risly assets.md",
+    "Permanent Notes/Kelly Criterion formula allows to come up with the optimal Bet size.md",
+    "Permanent Notes/Barbell Investing Strategy allows Diversification and protects from going bankrupt.md",
+    "Permanent Notes/In Ergodic system average outcome of the Group is the same as Individual over time.md",
+    "Permanent Notes/In Non-Ergodic system Individual outcome is not the same as Group outcome.md",
+    "Permanent Notes/One should not invest majority of funds into investment assets that can drop to zero in value.md",
+    "Permanent Notes/In Ergodic system you are playin Infinite game, and Finite one otherwise.md",
+    "Permanent Notes/Investor can make themselves more Ergodic using Diversification.md"
+  ]
+}

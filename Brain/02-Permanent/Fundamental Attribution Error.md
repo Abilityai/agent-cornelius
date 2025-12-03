@@ -1,0 +1,3 @@
+# Fundamental Attribution Error
+
+We tend to over-ascribe the behavior of others to their innate traits rather than to situational factors, leading us to overestimate how consistent that behavior will be in the future. In such a situation, predicting behavior seems not very difficult. Of course, in practice this assumption is consistently demonstrated to be wrong, and we are consequently surprised when others do not act in accordance with the “innate” traits we’ve endowed them with.

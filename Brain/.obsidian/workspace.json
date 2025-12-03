@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "c33e8dc8deb1ac55",
+    "type": "split",
+    "children": [
+      {
+        "id": "c117bd0d024fa104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b01413516b16ce4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a16b5a3d05b2bf84",
+    "type": "split",
+    "children": [
+      {
+        "id": "9912d17583d5b330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05a8e0f594e9e20",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09bd7afc1e838a21",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b283a2606a54109",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "44b943f1d48243e0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6dc0197bc455ace8",
+    "type": "split",
+    "children": [
+      {
+        "id": "73608057a29f59d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112a2946ad34abfa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bfa3600bd950d219",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "25f02fd939fe01e9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "55cb214af85e4309",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0592b632474a51d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "smart-random-note:Open Random Note from Search": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b01413516b16ce4",
+  "lastOpenFiles": [
+    "Permanent Notes/In Buddhism each attempt to Explain Reality removes the ability to directly experience it.md",
+    "Permanent Notes/Money made on high-risk volatile markets are lost quickly and easily.md",
+    "Test.md",
+    "2024-04-10.md",
+    "Permanent Notes/Ability to improve Quality of Communication drives the spread of a Meme, Idea, Belief.md",
+    "Brain/ADHD.md",
+    "Books & Learnings/Andrew Huberman - Protocol & Tools to Optimize Physical Health.md",
+    "Books & Learnings/Noise A Flaw in Human Judgment - Kahneman.md",
+    "Books & Learnings/Man's Search for Meaning - Victor Frankl.md",
+    "Books & Learnings/Dopamine Nation - Anna Lembke.md",
+    "Permanent Notes/Confirmatory Groups promote biases.md",
+    "Permanent Notes/Buddhism teaches to not identify with our thoughts.md",
+    "Permanent Notes/Buddhism teaches achieving Selflessness to get rid of the illusion of Self.md",
+    "Permanent Notes/Buddhism might describe neurobiological mental states of Dopamine and Here and Now.md",
+    "Permanent Notes/Brier Score is a way to measure the accuracy of a probability forecast.md",
+    "Permanent Notes/Brain understands how close something in time or space based on details.md",
+    "Permanent Notes/Brain prioritizes reality over imagination.md",
+    "Permanent Notes/Brain is a reality filter.md",
+    "Permanent Notes/Biases affect high stakes players because stakes are relative.md",
+    "Permanent Notes/Any Rule or Dogma is opening doors for Relativism, Polarization and Conflict.md",
+    "Permanent Notes/Noise is an undesirable variability of judgements.md",
+    "Permanent Notes/Endowment Effect - what we own is more valuable than what we don't.md",
+    "Permanent Notes/AI could become a tool for central economy planning.md",
+    "Permanent Notes/House Money Effect - people are more likely to take risks if they are ahed in the game.md",
+    "Permanent Notes/Trust is a permission to influence beliefs.md",
+    "Permanent Notes/Judging people by Results is only reasonable for verifiable judgments.md"
+  ]
+}
