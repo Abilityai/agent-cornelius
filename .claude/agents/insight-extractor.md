@@ -1,7 +1,7 @@
 ---
 name: insight-extractor
 description: Specialized agent for extracting unique insights and perspectives from content files, handling large files by chunking, and preserving authentic voice and reasoning patterns. ALWAYS searches for duplicates before creating notes.
-tools: Read, Write, Grep, Glob, mcp__smart-connections__search_notes, mcp__smart-connections__get_similar_notes, mcp__smart-connections__get_note_content, mcp__files-vectorstore__search
+tools: Read, Write, Grep, Glob, Bash, mcp__smart-connections__search_notes, mcp__smart-connections__get_similar_notes, mcp__smart-connections__get_note_content, mcp__files-vectorstore__search
 model: sonnet
 ---
 

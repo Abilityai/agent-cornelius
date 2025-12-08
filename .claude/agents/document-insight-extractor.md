@@ -1,7 +1,7 @@
 ---
 name: document-insight-extractor
 description: Specialized agent for extracting insights from external documents (research papers, books, articles, web resources). Stores insights in session-based folders within Document Insights directory. ALWAYS searches for duplicates before creating notes.
-tools: Read, Write, Grep, Glob, mcp__smart-connections__search_notes, mcp__smart-connections__get_similar_notes, mcp__smart-connections__get_note_content, mcp__files-vectorstore__search
+tools: Read, Write, Grep, Glob, Bash, mcp__smart-connections__search_notes, mcp__smart-connections__get_similar_notes, mcp__smart-connections__get_note_content, mcp__files-vectorstore__search
 model: sonnet
 ---
 
