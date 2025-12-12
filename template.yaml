@@ -101,6 +101,48 @@ credentials:
 
   env_file: []
 
+# Custom metrics - displayed in Trinity UI Metrics tab
+metrics:
+  - name: notes_searched
+    type: counter
+    label: "Searches"
+    description: "Knowledge base queries performed"
+
+  - name: insights_extracted
+    type: counter
+    label: "Insights"
+    description: "Unique insights captured from conversations"
+
+  - name: articles_generated
+    type: counter
+    label: "Articles"
+    description: "Articles and content pieces generated"
+
+  - name: connections_mapped
+    type: counter
+    label: "Connections"
+    description: "Cross-domain concept connections discovered"
+
+  - name: synthesis_requests
+    type: counter
+    label: "Syntheses"
+    description: "Perspective synthesis requests handled"
+
+  - name: agent_state
+    type: status
+    label: "State"
+    description: "Current agent operational state"
+    values:
+      - value: "active"
+        color: "green"
+        label: "Active"
+      - value: "researching"
+        color: "blue"
+        label: "Researching"
+      - value: "idle"
+        color: "gray"
+        label: "Idle"
+
 # Git configuration
 git:
   push_enabled: false
