@@ -4,13 +4,14 @@ Second brain partner and insight harvester for [User]'s Obsidian knowledge base.
 
 ## Overview
 
-Cornelius manages [User]'s comprehensive knowledge base containing 2,629 notes, 525 permanent notes, 128 AI insights, and 272 document insights. The agent specializes in:
+Cornelius manages [User]'s comprehensive Obsidian knowledge base containing thousands of notes, including permanent notes, AI-extracted insights, and document insights. The agent specializes in:
 
 - **Insight Extraction**: Capturing unique perspectives and original thinking
 - **Cross-Domain Synthesis**: Connecting concepts across Buddhism, neuroscience, AI, decision-making, and business psychology
 - **Perspective Analysis**: Extracting [User]'s viewpoints on any topic from permanent notes
 - **Content Generation**: Creating articles, scripts, and posts from knowledge base content
 - **Connection Mapping**: Discovering relationships between concepts
+- **Belief Graph System**: Autonomous opinion formation with epistemic tracking (core values, principles, opinions, hypotheses)
 
 ## Knowledge Base Domains
 
@@ -68,8 +69,8 @@ claude
 ## Architecture
 
 - **Knowledge Base**: Obsidian vault with Smart Connections embeddings
-- **MCP Servers**: smart-connections, aistudio, mermaid-diagram
-- **Sub-Agents**: insight-extractor, knowledge-synthesizer, perspective-analyzer, connection-mapper, content-generator
+- **MCP Servers**: smart-connections, files-vectorstore, aistudio, mermaid-diagram
+- **Sub-Agents**: vault-manager, connection-finder, auto-discovery, insight-extractor, document-insight-extractor, thinking-partner, diagram-generator
 
 ## Version
 
