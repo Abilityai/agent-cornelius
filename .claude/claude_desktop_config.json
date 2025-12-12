@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "smart_connections": {
+      "description": "Smart Connections MCP for Obsidian vault queries",
+      "command": "npx",
+      "args": ["-y", "@smart-connections/mcp"],
+      "env": {
+        "SMART_VAULT_PATH": "${SMART_VAULT_PATH}"
+      }
+    },
+    "mermaid_diagram": {
+      "description": "Generate diagrams from Mermaid markdown",
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-mermaid"],
+      "env": {}
+    }
+  }
+}

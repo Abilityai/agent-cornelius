@@ -1,0 +1,25 @@
+{
+  "mcpServers": {
+    "smart-connections": {
+      "type": "stdio",
+      "command": "npx",
+      "args": ["-y", "@smart-connections/mcp"],
+      "env": {
+        "SMART_VAULT_PATH": "${SMART_VAULT_PATH}",
+        "MCP_TRANSPORT_TYPE": "${MCP_TRANSPORT_TYPE:-stdio}",
+        "MCP_LOG_LEVEL": "${MCP_LOG_LEVEL:-info}"
+      }
+    },
+    "mermaid-diagram": {
+      "command": "npx",
+      "args": ["-y", "@peng-shawn/mermaid-mcp-server"]
+    },
+    "aistudio": {
+      "command": "npx",
+      "args": ["-y", "aistudio-mcp-server"],
+      "env": {
+        "GEMINI_API_KEY": "${GEMINI_API_KEY}"
+      }
+    }
+  }
+}

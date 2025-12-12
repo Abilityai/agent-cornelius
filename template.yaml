@@ -1,0 +1,156 @@
+name: agent-cornelius
+display_name: "Cornelius - Knowledge Base Manager"
+version: "1.0"
+author: "Eugene Vyborov"
+updated: "2025-12-02"
+
+# Short tagline for dashboard cards
+tagline: "Second brain partner and insight harvester"
+
+# Detailed description
+description: |
+  Manages Eugene's Obsidian second brain (2,629 notes, 525 permanent notes,
+  128 AI insights, 272 document insights). Provides insight extraction,
+  connection discovery, perspective synthesis, and article generation from
+  the knowledge base. Specializes in cross-domain synthesis across Buddhism,
+  neuroscience, AI, decision-making, and business psychology.
+
+# Example use cases - what you can ask this agent
+use_cases:
+  - "What's Eugene's unique perspective on [topic]?"
+  - "Create an article about [subject] using permanent notes"
+  - "Find connections between [concept A] and [concept B]"
+  - "Generate a 30-second video script about [topic]"
+  - "What insights exist about AI agent architecture?"
+  - "Synthesize perspectives on dopamine and decision-making"
+  - "Extract key insights from recent notes"
+  - "Map connections across Buddhism and neuroscience"
+
+# Resource requirements
+resources:
+  cpu: "2"
+  memory: "4g"
+
+# Sub-agents with descriptions
+sub_agents:
+  - name: insight-extractor
+    description: "Captures unique perspectives and original thinking from conversations. Creates atomic notes with proper tags and connections."
+  - name: knowledge-synthesizer
+    description: "Combines insights from multiple notes to generate articles, summaries, and new connections."
+  - name: perspective-analyzer
+    description: "Analyzes Eugene's viewpoints on topics by querying permanent notes and AI insights."
+  - name: connection-mapper
+    description: "Discovers and maps relationships between concepts across different domains."
+  - name: content-generator
+    description: "Creates scripts, articles, and posts from knowledge base content."
+
+# Slash commands with descriptions
+commands:
+  - name: extract-insight
+    description: "Capture unique insight from conversation"
+  - name: find-connections
+    description: "Map relationships between concepts"
+  - name: create-article
+    description: "Generate article from knowledge base"
+  - name: get-perspective
+    description: "Extract Eugene's perspective on topic"
+  - name: search-notes
+    description: "Semantic search across permanent notes"
+
+# MCP servers with descriptions
+mcp_servers:
+  - name: smart-connections
+    description: "Obsidian vault queries and semantic search over knowledge base"
+  - name: aistudio
+    description: "Google Gemini AI for content generation and synthesis"
+  - name: mermaid-diagram
+    description: "Diagram generation for knowledge maps and concept relationships"
+
+# Supported knowledge domains
+platforms:
+  - buddhism
+  - neuroscience
+  - ai_agents
+  - decision_making
+  - business_psychology
+  - dopamine_systems
+  - identity_belief
+
+# Capabilities
+capabilities:
+  - insight_extraction
+  - perspective_synthesis
+  - cross_domain_connections
+  - article_generation
+  - knowledge_navigation
+  - semantic_search
+  - concept_mapping
+  - content_creation
+
+# Credential schema - Trinity uses this to inject secrets
+credentials:
+  mcp_servers:
+    smart-connections:
+      env_vars:
+        - SMART_VAULT_PATH
+        - MCP_TRANSPORT_TYPE
+        - MCP_LOG_LEVEL
+    aistudio:
+      env_vars:
+        - GEMINI_API_KEY
+
+  env_file: []
+
+# Custom metrics - displayed in Trinity UI Metrics tab
+metrics:
+  - name: notes_searched
+    type: counter
+    label: "Searches"
+    description: "Knowledge base queries performed"
+
+  - name: insights_extracted
+    type: counter
+    label: "Insights"
+    description: "Unique insights captured from conversations"
+
+  - name: articles_generated
+    type: counter
+    label: "Articles"
+    description: "Articles and content pieces generated"
+
+  - name: connections_mapped
+    type: counter
+    label: "Connections"
+    description: "Cross-domain concept connections discovered"
+
+  - name: synthesis_requests
+    type: counter
+    label: "Syntheses"
+    description: "Perspective synthesis requests handled"
+
+  - name: agent_state
+    type: status
+    label: "State"
+    description: "Current agent operational state"
+    values:
+      - value: "active"
+        color: "green"
+        label: "Active"
+      - value: "researching"
+        color: "blue"
+        label: "Researching"
+      - value: "idle"
+        color: "gray"
+        label: "Idle"
+
+# Git configuration
+git:
+  push_enabled: false
+  commit_paths:
+    - Brain/
+    - .claude/memory/
+    - CLAUDE.md
+  ignore_paths:
+    - .mcp.json
+    - .env
+    - "*.log"

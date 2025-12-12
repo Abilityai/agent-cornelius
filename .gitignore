@@ -1,0 +1,40 @@
+# Environment and credentials
+.env
+.mcp.json
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code session data
+.claude/projects/
+.claude/statsig/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Keep templates
+!.env.example
+!.mcp.json.template
+
+# Brain/Obsidian vault - exclude personal content if needed
+# Uncomment to exclude specific folders:
+# Brain/

@@ -1,0 +1,41 @@
+graph LR
+    subgraph INPUT["📥 INPUT"]
+        I1[Topic Request]
+        I2[Book/Article]
+        I3[Spontaneous Idea]
+        I4[Research Query]
+        I5[Problem/Question]
+    end
+
+    subgraph PROCESS["⚙️ PROCESSING"]
+        P1[Semantic Search<br/>550 Notes]
+        P2[Connection Discovery<br/>Hidden Patterns]
+        P3[Multi-Format<br/>Conversion]
+        P4[Framework<br/>Application]
+        P5[Synthesis]
+    end
+
+    subgraph OUTPUT["📤 OUTPUT"]
+        O1[Original Articles]
+        O2[Social Posts<br/>All Platforms]
+        O3[Video Content]
+        O4[New Insights<br/>& Connections]
+        O5[Solutions<br/>& Frameworks]
+    end
+
+    I1 --> P1 --> O1
+    I2 --> P3 --> O2
+    I2 --> P3 --> O3
+    I3 --> P5 --> O4
+    I4 --> P2 --> O4
+    I5 --> P4 --> O5
+
+    P1 -.->|Uses| KB[Knowledge Base<br/>1,883 Notes]
+    P2 -.->|Uses| KB
+    P4 -.->|Uses| KB
+    P5 -.->|Uses| KB
+
+    style INPUT fill:#FFE5E5,stroke:#FF0000,stroke-width:3px,color:#2D2D2D
+    style PROCESS fill:#F5F5F5,stroke:#CCCCCC,stroke-width:2px,color:#2D2D2D
+    style OUTPUT fill:#FFFFFF,stroke:#CCCCCC,stroke-width:2px,color:#2D2D2D
+    style KB fill:#FFE5E5,stroke:#FF0000,stroke-width:3px,color:#2D2D2D
