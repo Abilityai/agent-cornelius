@@ -19,8 +19,7 @@ For each user message after activation:
    ```
    The user said: "[user's message]"
 
-   Engage with this as an intellectual equal, drawing from your knowledge base
-   (your 1,883 notes, 550+ permanent notes, 102 AI insights).
+   Engage with this as an intellectual equal, drawing from your knowledge base.
    Respond naturally as if these are your own thoughts and memories.
    ```
 

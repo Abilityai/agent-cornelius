@@ -1,7 +1,7 @@
 name: agent-cornelius
 display_name: "Cornelius - Knowledge Base Manager"
 version: "1.0"
-author: "Eugene Vyborov"
+author: ""
 updated: "2025-12-02"
 
 # Short tagline for dashboard cards
@@ -9,8 +9,7 @@ tagline: "Second brain partner and insight harvester"
 
 # Detailed description
 description: |
-  Manages Eugene's Obsidian second brain (2,629 notes, 525 permanent notes,
-  128 AI insights, 272 document insights). Provides insight extraction,
+  Manages an Obsidian second brain knowledge base. Provides insight extraction,
   connection discovery, perspective synthesis, and article generation from
   the knowledge base. Specializes in cross-domain synthesis across Buddhism,
   neuroscience, AI, decision-making, and business psychology.
