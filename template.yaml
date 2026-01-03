@@ -147,6 +147,8 @@ git:
   push_enabled: false
   commit_paths:
     - Brain/
+    - memory/
+    - outputs/
     - .claude/memory/
     - CLAUDE.md
   ignore_paths:
